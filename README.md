@@ -1,3 +1,4 @@
 # Labos
 Laboratoires pour cours INF2015 UQAM
-Créé lors de la session Hiver 2018.
+Les objectifs des laboratoires sont de s'initier à des concepts qui seront vus en classe et d'expérimenter des concepts vus en classe.
+Les laboratoires sont préparés par le chargé de cours et supervisé par un moniteur de stage.
