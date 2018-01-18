@@ -1,24 +1,24 @@
-Laboratoire #1: S'initier à GitHub.
+Laboratoire #1: 
+S'initier à GitHub et à un gestionnaire de source, afin de préparer les étudiants au cours sur la gestion 
+des sources et des changements.  
+Il s'agit d'un atelier d'initiation et d'exploration afin de bâtir un premier niveau de connaissance.
 
-Aucune solution ne sera fournie pour les exercices mais les manipulations nécessaires à leur réalisation seront présentées par le moniteur durant l'atelier.
+Aucune solution ne sera fournie pour les exercices mais les manipulations nécessaires à leur réalisation 
+seront présentées par le moniteur durant l'atelier.
 
 Vous devez avoir un compte GitHub pour continuer cet atelier.
 
 1) S'initier à GitHub en utilisant l'exercice suivant: https://guides.github.com/activities/hello-world/#what 
 
 2) Consulter un "repository" existant. 
-	a) consulter le contenu des différents onglets pour vous familiariser avec l'utilisation de GitHub: Code, Issue, Pull requests, Projects, Wiki, Insights
+	a) consulter le contenu des différents onglets pour vous familiariser avec l'utilisation de GitHub: Code, Issue, 
+	Pull requests, Projects, Wiki, Insights
 	b) Consulter des Issues.
 	c) Consulter des Pull requests.
 	d) Consulter un projet et cliquer sur une tâche.  Remarquez le lien avec les issues.
 	e) Consulter le wiki.
 	
-3) Utilisez NetBeans avec GitHub.
-	a) Faire un clone d'un projet existant, y faire des modifications, fait des commits et publier les modifications (push).  Prenez la peine d'écrire des messages de commit pertinents, c'est une bonne habitude à prendre tôt.
-	b) Partagez un dépôt avec un collègue de classe. Faites plusieurs modifications chacun ainsi que les pull et push nécessaires pour voir le travail de l'autre. 
-	c) Provoquez un conflit et réglez le conflit.
-	d) Faites un changement dans le code et annulez la modification (revert).
+3) Consulter les guides GitHub si vous voulez davantage d'information: https://guides.github.com/.  
 
-4) Consulter les guides GitHub si vous voulez davantage d'information: https://guides.github.com/.  Vous pouvez aussi consulter le glossaire: https://help.github.com/articles/github-glossary/
+4) Vous pouvez aussi consulter le glossaire: https://help.github.com/articles/github-glossary/
 
-Crédit @Jacques Berger, chargé de cours UQAM.
