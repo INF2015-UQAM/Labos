@@ -1,0 +1,11 @@
+Crédit: Hugo Scurti, UAM 2014
+*** Nécessaire pour le travail de session
+Objectifs
+  Écrire un document JSON
+  Valider un document JSON
+  Utiliser json-lib dans un projet java
+  Lire du JSON avec json-lib
+  Générer du JSON avec json-lib
+  Nous manipulerons du JSON en Java à l'aide de la librairie json-lib.
+
+Lien: https://github.com/hugoscurti/INF2015-H14/wiki/Labo-02-:-JSON-et-Java 
